@@ -1,2 +1,3 @@
-# vue_three_base_cli
-Base template for Vue 3 CLI
+# Vue 3 CLI Template
+
+A simple Vue 3 template using Vue CLI
